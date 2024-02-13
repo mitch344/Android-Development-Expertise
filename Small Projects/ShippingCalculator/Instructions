@@ -1,0 +1,7 @@
+Shipping Calculator
+
+Design your UI based on requirements before you actually start writing code.
+
+The shipping cost calculator will use a soft-keyboard with an EditView object. The user can input the weight (ounces) of an item. The base cost, added cost and total cost of shipping will be calculated as soon as a user enters the weight.
+
+All items will have a base shipping cost of 3.00$ for the first 16 ounces, items weighing more than 30 ounces will have a base price of 4.00$. Items that are more than 16 ounces will have an additional charge of 0.50$ for each 4 ounces (for example an item that weighs between 16 and 20 ounces will cost 3.50 and one that weighs between 20 and 24 will cost 4.00$).

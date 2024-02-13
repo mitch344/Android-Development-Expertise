@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="myList">
+        <item>Border Collie</item>
+        <item>German Shepard</item>
+        <item>Sheltie</item>
+        <item>Corgi</item>
+        <item>Beagle</item>
+        <item>Schnauzer</item>
+        <item>Rotweiller</item>
+        <item>Bull Dog</item>
+        <item>Doberman</item>
+        <item>Poodle</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Conversion App</string>
+    <string name="furlongs">Furlongs: </string>
+    <string name="miles">is miles: </string>
+    <string name="intialMiles">0</string>
+    <string name="buttonText">Convert</string>
+</resources>

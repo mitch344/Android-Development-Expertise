@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Burger Calorie Counter</string>
+    <string name="beef">Beef Patty</string>
+    <string name="lamb">Lamb Patty</string>
+    <string name="ostrich">Ostrich Patty</string>
+    <string name="prosciutto">Prosciutto</string>
+    <string name="asiago">Asiago Cheese</string>
+    <string name="Provolone">Provolone Cheese</string>
+    <string name="sauce">Caviar Sauce up to one teaspoon</string>
+    <string name="calorie">Calories?</string>
+    <string name="bun_image">bun</string>
+</resources>

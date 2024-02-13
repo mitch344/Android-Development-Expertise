@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI and Heart Rate Calculator</string>
+    <string name="weight">Weight In Pounds:</string>
+    <string name="height">Height In Inches:</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="defaultHeight">0</string>
+    <string name="defaultWeight">0</string>
+    <string name="targetHeartRate">Target Heart Rate</string>
+    <string name="bmi">BMI: </string>
+    <string name="age">Age:</string>
+    <string name="back">Back</string>
+</resources>
